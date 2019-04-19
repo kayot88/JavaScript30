@@ -24,3 +24,15 @@ function columize(wrapper, piks) {
 }
 
 columize('.wrapper', 'img');
+
+
+
+// games = ['1:0', '2:3', '1:1'];
+
+// function points(games) {
+//   const rez = games
+//     .reduce((acc, [x, _, y]) => acc + (x > y ? 3 : x == y), 0);
+//   console.log(rez);
+// }
+// points(games);
+
